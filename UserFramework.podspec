@@ -8,8 +8,8 @@ spec.homepage     = "https://github.com/NarenderArora/UserFramework"
 spec.license      = "MIT"
 spec.author       = { "NarenderArora" => "Narender.arora464@gmail.com" }
 spec.platform     = :ios, "15.6"
-spec.source       = { :git => "https://github.com/NarenderArora/UserFramework.git", :tag => spec.version.to_s }
-spec.source_files = "UserFramework/**/*.swift"
+spec.source       = { :git => "https://github.com/NarenderArora/UserFramework.git", :tag => "1.0.0" }
+spec.source_files = "UserFramework/UserFramework/**/*.swift"
 spec.swift_version = "5.0"
 
   end
