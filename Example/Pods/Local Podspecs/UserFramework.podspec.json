@@ -1,0 +1,21 @@
+{
+  "name": "UserFramework",
+  "version": "1.0.0",
+  "summary": "This is my first and best Framework.",
+  "description": "UserFramework is a reusable Swift framework designed to demonstrate basic CocoaPods integration and modular code distribution.",
+  "homepage": "https://github.com/NarenderArora/UserFramework",
+  "license": "MIT",
+  "authors": {
+    "NarenderArora": "Narender.arora464@gmail.com"
+  },
+  "platforms": {
+    "ios": "15.6"
+  },
+  "source": {
+    "git": "https://github.com/NarenderArora/UserFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "UserFramework/UserFramework/**/*.swift",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
